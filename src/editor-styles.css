@@ -3344,17 +3344,17 @@ form input::placeholder, form textarea::placeholder {
 }
 
 .piotnetforms-button {
-  background-color: #e38432 !important;
+  background-color: #4296b4 !important;
 }
 .piotnetforms-button:hover {
-  background-color: #e99f5f !important;
+  background-color: #63acc6 !important;
 }
 
 /* ==========================================================================
    A TAG (links) STYLES
    ========================================================================== */
 a {
-  color: #e38432;
+  color: #4296b4;
   text-decoration: none;
   cursor: pointer;
   -webkit-transition: all 250ms ease;
